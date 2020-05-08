@@ -1,9 +1,9 @@
 {
     "name": "SaveToGoogleDrive-floky",
     "description": "App to Upload files directly to Google Drive",
-    "repository": "https://github.com/ParveenBhadooOfficial/SaveToGoogleDrive",
-    "logo": "https://raw.githubusercontent.com/ParveenBhadooOfficial/SaveToGoogleDrive/master/src/main/resources/static/img/savetodrive.png",
-    "keywords": ["google","drive","bhadoo","bhadoo cloud"],
+    "repository": "https://github.com/chammiii/Bhadoo-Cloud-Drive",
+
+    "keywords": ["google","drive","floky","floky cloud"],
     "env": {
         "client_id": {
             "description": "Client ID from Google Console (http://bit.ly/37ED7dv)",
@@ -15,7 +15,7 @@
         },
         "redirect_uri": {
             "description": "Your App URL eg. https://app.example.com/api/oauth/google/callback (Replace this with your own)",
-            "value": "https://bhadooclouduploader.herokuapp.com/api/oauth/google/callback"
+            "value": "https://floky.herokuapp.com/api/oauth/google/callback"
         }
     }
 }
